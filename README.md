@@ -12,7 +12,7 @@ library(data.table)
 library(plotly)
 ```
 
-## Preparar el entorno.
+### Preparar el entorno.
 
 ```{r}
 # Cargar CSV
@@ -72,7 +72,7 @@ covid_general <-
 covid_general <- drop_na(data = covid_general)
 ```
 
-## Tabla 1
+# Tabla 1: 
 
 ```{r}
 covid_general |>
