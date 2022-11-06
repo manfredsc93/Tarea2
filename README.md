@@ -1,10 +1,4 @@
---
-title: "Tarea_2"
-author: "Manfred Salas-Castro"
-format: html
-editor: visual
----
-
+# Tarea 2
 #### Instalar librerías
 
 ```{r}
